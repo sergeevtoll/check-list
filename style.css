@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    background: antiquewhite;
+    min-height: 100vh;
+}
+.list{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content:center;
+    background: antiquewhite;
+
+}
+.item{
+    margin: 20px 0;
+}
+.title{
+    font-size:20px;
+}
+label{
+    font-size: 18px;
+}
